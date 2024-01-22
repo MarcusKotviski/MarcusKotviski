@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente com back-end
 - 🌱 Estou aprofundando meu conhecimentos em Django
-- 😄 Pronomes: he/him
+- 😄 Pronomes: Ele
 - ⚡ Fato engraçado: ...
 
 ## Introdução
