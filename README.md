@@ -1,9 +1,8 @@
 ### Olá, Eu sou Marcus Kotviski 👋
 
 - 🔭 Estou trabalhando atualmente com back-end
-- 🌱 Estou aprofundando meu conhecimentos em Django
+- 🌱 Estou aprofundando meu conhecimentos em C++
 - 😄 Pronomes: Ele
-- ⚡ Fato engraçado: ...
 
 ## Introdução
 
