@@ -18,13 +18,6 @@
   <img align="center" alt="Marcus-C++" height="30" width="40" src="https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=c++&logoColor=white">
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,python" />
-  </a>
-</p>
-
-
 ### Dashboards
 ![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
