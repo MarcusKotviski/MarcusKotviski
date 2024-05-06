@@ -10,7 +10,11 @@
 ....
 
 ### Linguagens
-  [![Skills](https://devicons.dev.br/icons?icon=Python,cpp,css,html,RabbitMQ&theme=white)](https://devicons.dev.br/)
+<p align="left">
+  <a href="https://devicons.dev.br/">
+    <img src="[https://devicons.dev.br/icons?icon=Python,AWS,NodeJS&size=70](https://devicons.dev.br/icons?icon=Python,cpp,css,html,RabbitMQ&theme=dark)" />
+  </a>
+</p>
 
 
 ### Dashboards
