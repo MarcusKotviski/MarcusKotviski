@@ -10,7 +10,7 @@
 ....
 
 ### Linguagens
-  [![Skills](https://devicons.dev.br/icons?icon=Python,cpp,css,html,RabbitMQ&theme=dark)](https://devicons.dev.br/)
+  [![Skills](https://devicons.dev.br/icons?icon=Python,cpp,css,html,RabbitMQ&theme=white)](https://devicons.dev.br/)
 
 
 ### Dashboards
